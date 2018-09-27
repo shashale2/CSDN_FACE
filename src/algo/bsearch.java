@@ -1,5 +1,5 @@
 package algo;
-//二分查找
+//二分查找11111
 public class bsearch {
 
 	public  static void main (String [] args) throws InterruptedException
