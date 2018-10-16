@@ -1,7 +1,6 @@
 package algo;
-//¶þ·Ö²éÕÒ11111
-//mytest
-// master branch 
+//ï¿½ï¿½ï¿½Ö²ï¿½ï¿½ï¿½11111
+
 public class bsearch {
 
 	public  static void main (String [] args) throws InterruptedException
